@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @seyiadel
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web & software development
+- 🌱 Building web apps with Python and Django
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on twitter @seyiadel
+- 📫 @seyiadel is where you can get to me on twitter.
 
 
 <!---
