@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seyiadel
 - 👀 I’m interested in web & software development
-- 🌱 Building web apps with Python and Django
-- 💞️ I’m looking to collaborate on projects
+- 🌱 Building web apps and RESTful APIs with Python and Django
+- 💞️ I’m looking to collaborate on backend projects, User Authentication, Payment Gateways
 - 📫 @seyiadel is where you can get to me on twitter.
 
 
