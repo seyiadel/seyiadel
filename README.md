@@ -1,9 +1,8 @@
-- 👋 Hi, I’m seyiadel, an homosapien on earth with delighted interest on how systems works and sprinkle of curiosity on how the human mind works. I guess that is called psychology right? 
-- I'm open to using my intellect to construct backend logics for your product with or without bending the constraints.
--  Ohh my bad! I mean rules..
-- 👀 I’m interested in web & software development
-- 🌱 Building web apps and RESTful APIs with Python and Django
-- 💞️ I’m looking to collaborate on backend projects, User Authentication, Payment Gateways
+- 👋 Hi, I’m seyiadel, a backend developer on planet earth with delighted interest on how systems works and sprinkle of curiosity on how the human mind works. I guess that is called psychology right? 
+- I'm open to construct database models mapped with backend logic for your product/ideas, building web apps and RESTful APIs with Python and Django.
+- 👀 I’m interested in web, software development and learning spanish, Hola Como estas?!.
+- 🌱 Progressing Fullstack by exploring Reactjs
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 @seyiadel is where you can get to me on twitter.
 
 
