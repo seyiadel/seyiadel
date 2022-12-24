@@ -17,10 +17,10 @@
 ---
 
 ### :man_technologist: About Me :
--  :telescope:  Hi, I’m a backend developer with delighted interest on how systems works, write database models mapped with backend logic for your product/ideas, building web apps and RESTful APIs with Python and Django.
-- :seedling:Progressing Fullstack by exploring Reactjs
-- :zap: In my free time, I sleep, listen to music, play keyboard and read tech articles.
-- 👀 I’m interested in web, software development and learning spanish, Hola Como estas?!.
+-  :telescope:  Hi, I’m Seyi Adeleye, a backend sofware developer with delighted interest on how systems runs, making use of an interesting language(Python) and frameworks(fastAPI and Django) to write and launch ideas into products.
+- :seedling:reading more on systems architecture
+- :zap: In my free time, I sleep.
+- 👀 I’m interested in software development, cybersecurity and networking.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 [![Linkedin Badge](https://img.shields.io/badge/-seyiadel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaloseyi-adeleye) is where you can get to me on LinkedIn.
 <hr>
