@@ -16,7 +16,7 @@
 </div>
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Introduction :
 -  :telescope:  Hi, I’m Seyi Adeleye, a backend sofware developer with delighted interest on how systems runs, making use of an interesting language(Python) and frameworks(fastAPI and Django) to write and launch ideas into products.
 - :seedling:reading more on systems architecture
 - :zap: In my free time, I sleep.
