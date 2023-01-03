@@ -1,6 +1,6 @@
 
 -  :telescope:<h4>Hi, I’m Seyi Adeleye, a backend sofware developer
-   with delighted interest on how systems runs, 
+   with delighted interest on how systems works, 
 	 making use of an interesting 
 	 language(Python) and frameworks(fastAPI and Django) to write and launch ideas into products.</h4>
 - <h4>👀Interested in</h4>
