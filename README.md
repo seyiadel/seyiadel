@@ -8,7 +8,7 @@
 	<li>web/mobile software development</li>
 			<li>system architecture</li><li>cybersecurity</li><li>computer networking</li></ul>
 - :zap: In my free time, <i>I sleep(an escape)</i>.
-- <h4>💞️ I’m looking to collaborate on backend software development projects and entry level employment.</h4>
+- <h4>💞️ I’m looking to collaborate on backend software development projects and entry level opportunites.</h4>
 - 📫 Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-seyiadel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaloseyi-adeleye) and [![Twiiter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seyiadel)
 <hr>
 
