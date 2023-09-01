@@ -1,15 +1,16 @@
-
--  :telescope:<h4>Hi, I’m Seyi Adeleye, a backend sofware developer
-   with delighted interest on how systems works, 
-	 making use of
-	 languages(Go,Python) and frameworks(fastAPI and Django) to write and launch ideas into products.</h4>
-- <h4>👀Interested in</h4>
+<h2>In fear, guilt and wholesome days, I’m Adel.</h2>
+<h4>👀Interested in</h4>
 	<ul>
-	<li>web/mobile software development</li>
-			<li>system architecture</li><li>cybersecurity</li><li>computer networking</li></ul>
-- :zap: In my free time, <i>I sleep(an escape)</i>.
-- <h4>💞️ I’m looking to collaborate on backend software development projects and entry level opportunites.</h4>
-- 📫 Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-seyiadel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaloseyi-adeleye) and [![Twiiter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seyiadel)
+	<li>software development</li>
+	<li>API Design</li>
+	<li>system architecture</li>
+	<li>computer networking</li>
+	<li>Arts </li></li>
+	</ul>
+<h4>🌱 - Learning PHP and Laravel with sprinkle of TailwindCSS</h4>
+:zap: - In my free time, <i>Cloudy Thoughts and Lo-Fi Sounds. I'm a lover of music, I enjoy different genres</i>.
+
+📫 - Reach out to me via Twitter @seyiadel and Gmail seyithedev@gmail.com
 <hr>
 
 <!---
