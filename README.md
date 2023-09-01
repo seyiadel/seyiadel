@@ -1,4 +1,4 @@
-<h2>In fear, guilt and wholesome days, I’m Adel.</h2>
+<h2>In fear, guilt and on wholesome days, I’m Adel.</h2>
 <h4>👀Interested in</h4>
 	<ul>
 	<li>software development</li>
