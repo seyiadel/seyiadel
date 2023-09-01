@@ -10,7 +10,7 @@
 <h4>🌱 - Learning PHP and Laravel with sprinkle of TailwindCSS</h4>
 :zap: - In my free time, <i>Cloudy Thoughts and Lo-Fi Sounds. I'm a lover of music, I enjoy different genres</i>.
 
-📫 - Reach out to me via Twitter @seyiadel and Gmail seyithedev@gmail.com
+📫 - Reach out to me via Twitter @seyiadel and Gmail seyiadel03@gmail.com
 <hr>
 
 <!---
